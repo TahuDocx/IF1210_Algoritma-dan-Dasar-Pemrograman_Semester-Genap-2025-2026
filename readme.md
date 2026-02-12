@@ -48,9 +48,9 @@ ekstrim, sorting
 > Tidak ada **susulan** untuk praktikum, kuis, tugas besar, dan ujian
 > > Susulan ujian dapat diperimbangkan untuk kasus emergency (Berikan informasi secapatnya!)
 
-# Referensi
+## Referensi
 - Inggriani Liem: Draft “Diktat Kuliah Dasar Pemrograman, Bagian Pemrograman Prosedural”, Kelompok Keahlian Rekayasa Perangkat Lunak dan Data, Edisi April 2007.
 - Inggriani Liem: Draft “Diktat Struktur Data”, Program Studi Teknik Informatika, 2008
 
-# Informasi Lebih Lanjut
+## Informasi Lebih Lanjut
 **Baca [Pengantar Kuliah](./1770863284479_IF1210_01_1_PengantarKuliah_sem22526.pdf)!**
